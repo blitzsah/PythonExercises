@@ -4,6 +4,7 @@ from pprint import pprint
 
 sentence = "Hello my name is Steven Hart and I live in the UK"
 
+# Testing a change to my project
 
 def most_common_letter(example_sentence):
     list_of_occurrences = []
